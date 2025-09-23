@@ -1,6 +1,6 @@
 name: taudio
 description: "A complete api for audio playback and recording. Member of the `Tau` Family. Audio player, audio recorder. Pray for Ukraine."
-version: 10.3.8_wave1
+version: 10.3.8
 homepage: https://taudio.canardoux.xyz/
 repository: https://github.com/canardoux/taudio
 
