@@ -511,6 +511,7 @@ class FlutterSoundPlayer implements FlutterSoundPlayerCallback {
   ///
   /// ----------------------------------------------------------------------------------------------
   StreamSink<Uint8List>? get uint8ListSink => _pcmUint8Controller?.sink;
+  bool get isUint8SinkBusy => _pcmUint8Controller?.isPaused ?? false;
 
   /// Getter of one of the three StreamSink that you may use to feed a player from Stream.
   ///
