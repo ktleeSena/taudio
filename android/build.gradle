@@ -61,7 +61,7 @@ dependencies {
     // DO NOT INCLUDE THE FOLLOWING LINE IN A REAL APP !!!
     // implementation project(':flutter_sound_core')
     // implementation 'com.github.canardoux:flutter_sound_core:10.3.8'
-    // implementation 'com.github.ktleeSena:flutter_sound_core2:10.3.8_wave5'
+    implementation 'com.github.ktleeSena:flutter_sound_core2:10.3.8_wave5'
     // -------------------------------------------------------------------------------------
 
 }
